@@ -23,12 +23,14 @@ This is an augmented reality project that generates an interactive portal within
 | `filter_thermal` | Thermal camera simulation using a colormap |
 | `filter_sepia` | Vintage sepia style with vignetting and grain |
 | `filter_frosted_glass` | Frosted glass effect over the image |
-| `filter_pink_halftone` | Pink-magenta duotone halftone | ## Installation
+| `filter_pink_halftone` | Pink-magenta duotone halftone |
+
+## Installation
 
 Clone the repository:
 
 ```bash
-git clone 
+git clone <repository-url>
 cd Filters
 ```
 
